@@ -1,14 +1,14 @@
 {
- "current" : "1.0.222",
- "enabled": true,
- "majorMsg" : {
-    "title" : "Important Application update",
-	"msg": "Please need to update your app to the latest version to continue using it",
-	"btn" : "Download"
- },
- "minorMsg" : {
-    "title" : "Application update available",
-	"msg": "There's a new version available, would you like to get it now?",
-	"btn" : "Download"
- }
+   "current":"1.0.222",
+   "enabled":true,
+   "majorMsg":{
+      "title":"Important Application update",
+      "msg":"Please need to update your app to the latest version to continue using it",
+      "btn":"Download"
+   },
+   "minorMsg":{
+      "title":"Application update available",
+      "msg":"There's a new version available, would you like to get it now?",
+      "btn":"Download"
+   }
 }
